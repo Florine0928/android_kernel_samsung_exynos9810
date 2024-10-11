@@ -22,7 +22,7 @@
 
 #include <linux/types.h>
 
-#define TICKET_SHIFT	16
+#define TICKET_SHIFT	3
 
 typedef struct {
 #ifdef __AARCH64EB__

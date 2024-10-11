@@ -5,7 +5,7 @@
 # error "please don't include this file directly"
 #endif
 
-#define TICKET_SHIFT	16
+#define TICKET_SHIFT	3
 
 typedef struct {
 	union {
